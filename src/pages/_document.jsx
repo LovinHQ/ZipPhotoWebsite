@@ -5,7 +5,8 @@ export default function Document() {
     <Html className="h-full bg-gray-50 antialiased" lang="en">
       <Head>
         <script async src="https://cdn.splitbee.io/sb.js"></script>
-        <Script         
+        <Script       
+          id="googletag"  
           strategy="afterInteractive"
           src="https://www.googletagmanager.com/gtag/js?id=G-FB3H3PD7Z7">
         </Script>
