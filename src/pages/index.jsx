@@ -14,23 +14,23 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>ZipPhoto - Your best photo organizer.</title>
+        <title>ZipPhoto - Organize and recapture your precious memories.</title>
         <meta
           name="description"
-          content="By leveraging insights from our network of industry insiders, you’ll know exactly when to buy to maximize profit, and exactly when to sell to avoid painful losses."
+          content="More than an iOS photo organizer, ZipPhoto is the housekeeper of your precious memories."
         />
       </Head>
-      <Header />
-      <main>
-        <Hero />
-        <PrimaryFeatures />
-        <SecondaryFeatures />
+      {/*<Header />*/}
+      <main className="h-full" >
+        {/*<Hero />*/}
+        {/*<PrimaryFeatures />*/}
+        {/*<SecondaryFeatures />*/}
         <CallToAction />
-        <Reviews />
-        <Pricing />
-        <Faqs />
+        {/*<Reviews />*/}
+        {/*<Pricing />*/}
+        {/*<Faqs />*/}
       </main>
-      <Footer />
+      {/*<Footer />*/}
     </>
   )
 }
