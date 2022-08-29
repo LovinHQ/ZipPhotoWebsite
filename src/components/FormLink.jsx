@@ -13,7 +13,7 @@ export function FormLink({ color = 'black' }) {
                     : 'bg-white text-gray-900 hover:bg-gray-50'
             )}
         >
-            <h3 className="font-semibold leading-8 justify-center align- box-border h-12 w-120 px-8 py-2 rounded-xl" >
+            <h3 className="font-semibold h-fit justify-center text-center align-middle box-border w-120 px-8 py-3 rounded-xl" >
                 Reserve your ZipPhoto
             </h3>
             {/*<svg viewBox="0 0 120 40" aria-hidden="true" className="h-10">*/}
