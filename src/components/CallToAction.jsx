@@ -15,10 +15,10 @@ export function CallToAction() {
       <Container className="w-full absolute top-1/2 -translate-y-1/2 left-1/2 -translate-x-1/2">
         <div className="mx-auto max-w-md text-center">
           <h2 className="text-4xl font-bold tracking-tight text-white">
-            Coming soon.
+            Coming soon on App Store.
           </h2>
           <p className="mt-4 text-lg text-gray-300">
-            More than an iOS photo organizer, ZipPhoto is the housekeeper of your precious memories.
+            Clear unused photos and find wanted photos easily. ZipPhoto is the ultimate solution for the photos on your iPhone.
           </p>
           <p className="mt-4 text-lg text-gray-300">
             Reserve and stay tuned.
