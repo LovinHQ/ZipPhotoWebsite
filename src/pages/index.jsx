@@ -17,7 +17,7 @@ export default function Home() {
         <title>ZipPhoto - The photo organizer you&rsquo;ll enjoy using.</title>
         <meta
           name="description"
-          content="Clear unused photos and find wanted photos easily. ZipPhoto is the ultimate solution for the photos on your iPhone."
+          content="Clear the unused and find the wanted easily. ZipPhoto is the ultimate solution for photos on your iPhone."
         />
       </Head>
       {/*<Header />*/}

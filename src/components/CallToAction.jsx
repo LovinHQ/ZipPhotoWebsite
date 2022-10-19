@@ -21,7 +21,7 @@ export function CallToAction() {
             on App Store
           </h2>
           <p className="mt-4 text-lg text-gray-300">
-            Clear unused photos and find wanted photos easily. ZipPhoto is the ultimate solution for the photos on your iPhone.
+            Clear the unused and find the wanted easily. ZipPhoto is the ultimate solution for photos on your iPhone.
           </p>
           <p className="mt-4 text-lg text-gray-300">
             Reserve and stay tuned.
