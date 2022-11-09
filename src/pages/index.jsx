@@ -14,10 +14,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>ZipPhoto - The photo organizer you&rsquo;ll enjoy using.</title>
+        <title>ZipPhoto - The best photo organizer on your iPhone.</title>
         <meta
           name="description"
-          content="Clear the unused and find the wanted easily. ZipPhoto is the ultimate solution for photos on your iPhone."
+          content="Clear the unused and find the wanted super fast. ZipPhoto is the best photo organizer on your iPhone."
         />
       </Head>
       {/*<Header />*/}
